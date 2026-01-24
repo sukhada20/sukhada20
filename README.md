@@ -12,6 +12,12 @@ Hi, I'm Sukhada Bhoyar
 
 ---
 
+<p align="center">
+  <img src="https://github.com/sukhada20/GitHub-Garden/blob/main/garden.svg?raw=true">
+</p>
+
+---
+
 # <img width="50" height="50" alt="octocat-1769269364037" src="https://github.com/user-attachments/assets/712e0d5f-c40f-488b-8af3-8bd07bc58ac5" /> Tech Stack
 ## Languages
 ![Python](https://img.shields.io/badge/python-c38ed5?style=for-the-badge&logo=python&logoColor=white) 
