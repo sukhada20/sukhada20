@@ -1,3 +1,7 @@
+![Untitled Project](https://github.com/user-attachments/assets/5129bf76-3c97-408c-a688-f82fafd91afb)
+
+
+
 # 💫 About Me:
 Currently working on Gesture Recognition Project.<br>Learning about Artificial Intelligence.
 
