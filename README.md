@@ -29,6 +29,7 @@ Hi, I'm Sukhada Bhoyar
 ![CSS](https://img.shields.io/badge/CSS3-c38ed5?style=for-the-badge&logo=css3&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23d7abe6.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-c38ed5?style=for-the-badge&logo=postgresql&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%239878b7.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## Libraries & Framework
 ![NumPy](https://img.shields.io/badge/NumPy-9878b7?style=for-the-badge&logo=numpy&logoColor=white)
@@ -70,6 +71,31 @@ Hi, I'm Sukhada Bhoyar
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sukhada20&show_icons=true&hide_border=true&title_color=9878b7&icon_color=c38ed5&text_color=4b5563&bg_color=f9edfd)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sukhada20&layout=compact&hide_border=true&title_color=9878b7&text_color=4b5563&bg_color=f9edfd)
 [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=sukhada20&theme=shades-of-purple&bg_color=f9edfd&ring_color=bc13fe&fire_color=bc13fe&currStreakLabel_color=9878b7&sideNums_color=bc13fe)](https://github.com/sukhada20)
+
+---
+
+# <img width="50" height="50" alt="octocat-1769373252643" src="https://github.com/user-attachments/assets/62f0aaed-6f4e-413e-84cf-3f5936b69fb1" /> Contact Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/sukhada-bhoyar-9b3a00284">
+    <img width="32" src="https://github.com/user-attachments/assets/e5148b69-be90-49f4-bcbe-b98d05c93e13" />
+    <b> LinkedIn</b>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:sukhadabhoyar@gmail.com">
+    <img width="32" src="https://github.com/user-attachments/assets/827961b0-6742-4733-8b04-a7d175ea2eea" />
+    <b> Email</b>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.duolingo.com/profile/sukhadameow">
+    <img width="32" src="https://github.com/user-attachments/assets/b362b213-f3f2-4ba3-b77d-1a87848bf536" />
+    <b> Duolingo </b>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.chess.com/member/sukhada20">
+    <img width="32" src="https://github.com/user-attachments/assets/63f8bfc1-0063-4638-ba5b-e15035dd81e3" />
+    <b> Chess </b>
+  </a>
+</p>
 
 ---
 
