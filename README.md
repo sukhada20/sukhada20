@@ -71,6 +71,7 @@ Hi, I'm Sukhada Bhoyar
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=sukhada20&show_icons=true&hide_border=true&title_color=9878b7&icon_color=c38ed5&text_color=4b5563&bg_color=f9edfd)
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sukhada20&layout=compact&hide_border=true&title_color=9878b7&text_color=4b5563&bg_color=f9edfd)
 [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=sukhada20&theme=shades-of-purple&bg_color=f9edfd&ring_color=bc13fe&fire_color=bc13fe&currStreakLabel_color=9878b7&sideNums_color=bc13fe)](https://github.com/sukhada20)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sukhada20&bg_color=f9edfd&color=4b5563&line=9878b7&point=bc13fe&area=true&hide_border=true&custom_title=Contribution%20Graph)
 
 ---
 
